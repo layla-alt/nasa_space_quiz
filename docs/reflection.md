@@ -1,0 +1,3 @@
+# Project Reflection
+
+At first, I felt a bit stuck about what to do since I waited so long after the class to open the assignment and do it. Through the assignment i learnt how to break the tasks down into separate issues. I learnt how to use the branches to work on one feature at a time. Doing it in smaller parts also made it easier to feel the progress happening. The whole thing felt challenging in the beginning. I used external sources to just relearn how to do those tasks and that made it clearer. If I had more time, I would have put more effort into the quiz questions instead of using AI for them, as well as learning how to make it more interactive. 
