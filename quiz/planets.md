@@ -17,3 +17,15 @@ a) Mars
 b) Jupiter
 c) Venus
 d) Mercury
+
+**4. Which planet is the hottest in our solar system?**
+a) Mercury
+b) Mars
+c) Venus
+d) Jupiter
+
+**5. Which planet is famous for its large, bright rings?**
+a) Uranus
+b) Saturn
+c) Neptune
+d) Earth
