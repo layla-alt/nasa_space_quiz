@@ -14,3 +14,11 @@
 3. **a) Artemis**: It aims to land astronauts on the Moon again and prepare for missions to Mars.
 4. **d) Perseverance**: It landed in Jezero Crater to search for signs of ancient life.
 5. **b) James Webb Space Telescope**: It observes the universe in infrared light.
+
+
+## Scoring Guide
+Count how many answers you got right out of 10:
+
+- **0–3: Space Cadet**. Keep exploring, you're just getting started!
+- **4–7: Astronaut**. Great job, you know your space facts!
+- **8–10: Mission Commander**. Amazing, NASA would be proud!
